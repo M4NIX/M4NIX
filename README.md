@@ -3,7 +3,7 @@ FIVEM
 
 ### Installation, Replace at line 528 on server.lua of your gcphone the function getBourse()
 
-LUA
+```LUA
 --====================================================================================
 --  App bourse
 --====================================================================================
@@ -27,7 +27,7 @@ function getBourse()
     end
     return result
 end
-
+```
 ### Fix for arrow in Gcphone - Replace in app.js at line 2300
 
 ### this
